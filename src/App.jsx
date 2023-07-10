@@ -1,3 +1,9 @@
+import { Header } from "./components/Header";
+
 export const App = () => {
-	return <h1 className='text-3xl font-bold font-mulish'>Windbnb</h1>;
+	return (
+		<main className='container mx-auto px-4 py-6 text-secondary'>
+			<Header />
+		</main>
+	);
 };
