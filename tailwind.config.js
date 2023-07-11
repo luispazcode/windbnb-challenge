@@ -10,7 +10,7 @@ export default {
 				quaternary: "#BDBDBD",
 			},
 			fontFamily: {
-				monserrat: ["Montserrat", "sans-serif"],
+				montserrat: ["Montserrat", "sans-serif"],
 				mulish: ["Mulish", "sans-serif"],
 			},
 		},
